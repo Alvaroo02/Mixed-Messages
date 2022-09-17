@@ -4,5 +4,5 @@ Codeacademy project on the Full Stack Path, The goal is to create a random messa
 *Javascript
 *Git
 *Node.js
-##How to use
+## How to use
 Just install Node.js, go to the directory where you have the script, run node and then run ".load script.js", you should see the random message
